@@ -4,7 +4,7 @@ A machine learning system that predicts MLB Most Valuable Player award winners w
 
 ## Live Demo
 
-[View the app on Streamlit Cloud](https://mvp-predictor.streamlit.app)
+[View the app on Streamlit Cloud](https://mvp-predictor-bennett.streamlit.app/)
 
 ## Features
 
